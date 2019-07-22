@@ -17,10 +17,10 @@ Coded in Python programming language, SVM module is used for training and testin
 
 ## Approach
 * Collected 200 India Subreddit Data for each flair using praw module.
-2 The collected data is stored using MongoDB, and it includes Title, Comments, Upvotes, ID and URL.
-3 The data was cleaned using NLP, all the stopwords are removed, and data is split randomly into 80% train and 20% test data.
-4 The ML algorithm is applied on the data set.
-5 Then the model is saved using joblib, and is used for prediction of the flair. 
+* The collected data is stored using MongoDB, and it includes Title, Comments, Upvotes, ID and URL.
+* The data was cleaned using NLP, all the stopwords are removed, and data is split randomly into 80% train and 20% test data.
+* The ML algorithm is applied on the data set.
+* Then the model is saved using joblib, and is used for prediction of the flair. 
 
 ## Accuracy
 61%
