@@ -16,7 +16,7 @@ The file manage.py is used to start Django server.
 Coded in Python programming language, SVM module is used for training and testing data, Natural Language Processing to perform data cleaning. The application has been developed using Django web framework and hosted on Heroku web server.
 
 ## Approach
-1 Collected 100 India Subreddit Data for each flair using praw module.
+* Collected 200 India Subreddit Data for each flair using praw module.
 2 The collected data is stored using MongoDB, and it includes Title, Comments, Upvotes, ID and URL.
 3 The data was cleaned using NLP, all the stopwords are removed, and data is split randomly into 80% train and 20% test data.
 4 The ML algorithm is applied on the data set.
