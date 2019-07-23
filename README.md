@@ -26,10 +26,10 @@ Coded in Python programming language, SVM module is used for training and testin
 61%
 
 ## Project Execution
-Open the Terminal.
-Clone the repository by entering git clone https://github.com/radonys/Reddit-Flair-Detector.git.
-Ensure that Python3 and pip is installed on the system and all the dependencies mentioned in Pipfile.
-Then write commands:
-pipenv sync
-pipenv shell
-python3 manage.py runserver
+* Open the Terminal.
+* Clone the repository by entering git clone https://github.com/radonys/Reddit-Flair-Detector.git.
+* Ensure that Python3 and pip is installed on the system and all the dependencies mentioned in Pipfile.
+* Then write commands:
+* pipenv sync
+* pipenv shell
+* python3 manage.py runserver
