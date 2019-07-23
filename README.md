@@ -33,3 +33,5 @@ Coded in Python programming language, SVM module is used for training and testin
 * pipenv sync
 * pipenv shell
 * python3 manage.py runserver
+# References
+https://towardsdatascience.com/multi-class-text-classification-model-comparison-and-selection-5eb066197568
