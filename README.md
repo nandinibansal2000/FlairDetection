@@ -5,7 +5,7 @@
 
 ## Directory Structure 
 The folder ML_Proc consists of all the django files.
-The folder NewPanda consists of all the cleaning, detection and collected data(MongoDB) files.
+The folder Ml_proc consists of all the cleaning(cleaning.py), detection(views.py) and collected data(main.py, MongoDB) files.
 The folder Static consists of the CSS files.
 The folder Template consists of the HTML files.
 The Pip file is for dependencies to be installed.
